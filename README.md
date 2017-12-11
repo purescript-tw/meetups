@@ -4,10 +4,10 @@ Collection of slides and links of meetups
 
 ## PureScript TW Meetup #11: Introduction to Idris
 
-- Date: 2017/12/06
-- [Resgistration Page](https://www.facebook.com/events/373727023088041/)
-- Slides
-- [Video](https://www.youtube.com/watch?v=7ARWzXk4lbg)
+* Date: 2017/12/06
+* [Resgistration Page](https://www.facebook.com/events/373727023088041/)
+* Slides
+* [Video](https://www.youtube.com/watch?v=7ARWzXk4lbg)
 
 ```md
 PureScript 讀書會番外篇，由 Ray Shih 分享 Idris。
@@ -19,10 +19,10 @@ Idris 介紹：「Idris is a general purpose pure functional programming languag
 
 ## PureScript TW Meetup #10: PureScript By Example CH1 - CH4
 
-- Date: 2017/11/24
-- [Resgistration Page](https://www.facebook.com/events/1928917914094853/)
-- [Slides](https://speakerdeck.com/cybai/purescript-meetup-number-10)
-- [Video](https://www.youtube.com/watch?v=gzzBqZ08iMk)
+* Date: 2017/11/24
+* [Resgistration Page](https://www.facebook.com/events/1928917914094853/)
+* [Slides](https://speakerdeck.com/cybai/purescript-meetup-number-10)
+* [Video](https://www.youtube.com/watch?v=gzzBqZ08iMk)
 
 ```md
 這次讀書會預計討論第一章到第四章，歡迎對 functional programming 有興趣的朋友參加。因為是從第一章開始，所以沒有經驗也可以，但建議來之前先讀過書。
@@ -34,10 +34,10 @@ Idris 介紹：「Idris is a general purpose pure functional programming languag
 
 ## PureScript TW Meetup #09: Monadic Adventures
 
-- Date: 2017/10/20
-- [Resgistration Page](https://www.facebook.com/events/175536106331341/)
-- Slides
-- Video
+* Date: 2017/10/20
+* [Resgistration Page](https://www.facebook.com/events/175536106331341/)
+* Slides
+* Video
 
 ```
 We'll review what is a monad and talk about common monad examples. And hopefully, we can talk about monad transformer
@@ -45,10 +45,10 @@ We'll review what is a monad and talk about common monad examples. And hopefully
 
 ## PureScript TW Meetup #08: Functor, Apply, Applicative and Traversable
 
-- Date: 2017/10/13
-- [Resgistration Page](https://www.facebook.com/events/1965573623715802/)
-- Slides
-- Video
+* Date: 2017/10/13
+* [Resgistration Page](https://www.facebook.com/events/1965573623715802/)
+* Slides
+* Video
 
 ```md
 由 Wu Ching Ting 分享 Functor, Apply, Applicative and Traversable。內容大約是 PureScript by Example CH 7 和 Learn You a Haskell CH 11。
@@ -58,10 +58,10 @@ We'll review what is a monad and talk about common monad examples. And hopefully
 
 ## PureScript TW Meetup #07: Partially adopting PS and CH6 Type Classes
 
-- Date: 2017/09/04
-- [Resgistration Page](https://www.facebook.com/events/1952222518353089/)
-- Slides
-- [Video](https://www.youtube.com/watch?v=rZAS_X-0qV4)
+* Date: 2017/09/04
+* [Resgistration Page](https://www.facebook.com/events/1952222518353089/)
+* Slides
+* [Video](https://www.youtube.com/watch?v=rZAS_X-0qV4)
 
 ```md
 由 Ray Shih 分享 How to partially adopt PureScrip，並且由 Wu Ching 分享 PureScript by Example CH6 - Type Classes
@@ -71,10 +71,10 @@ We'll review what is a monad and talk about common monad examples. And hopefully
 
 ## PureScript TW Meetup #06: Lens
 
-- Date: 2017/08/25
-- [Resgistration Page](https://www.facebook.com/events/302604686873003/)
-- Slides
-- [Video](https://www.youtube.com/watch?v=ZHw3sciGq6s)
+* Date: 2017/08/25
+* [Resgistration Page](https://www.facebook.com/events/302604686873003/)
+* Slides
+* [Video](https://www.youtube.com/watch?v=ZHw3sciGq6s)
 
 ```md
 Ray Shih 將與大家分享 Lens
@@ -84,10 +84,10 @@ Ray Shih 將與大家分享 Lens
 
 ## PureScript TW Meetup #05: PureScript by Example CH1 - CH5 讀書會
 
-- Date: 2017/08/18
-- [Resgistration Page](https://www.facebook.com/events/357064568059476/)
-- [Slides](https://www.slideshare.net/mnfshih/purescript-tutorial-1)
-- [Video](https://www.facebook.com/groups/PureScript.tw/permalink/1820247728286047/)
+* Date: 2017/08/18
+* [Resgistration Page](https://www.facebook.com/events/357064568059476/)
+* [Slides](https://www.slideshare.net/mnfshih/purescript-tutorial-1)
+* [Video](https://www.facebook.com/groups/PureScript.tw/permalink/1820247728286047/)
 
 ```md
 這次讀書會預計討論第一章到第五章，歡迎對 functional programming 有興趣的朋友參加。因為是從第一章開始，所以沒有經驗也可以，但建議來之前先讀過書。
@@ -97,10 +97,10 @@ Ray Shih 將與大家分享 Lens
 
 ## PureScript TW Meetup #04: PureScript 第四次讀書會
 
-- Date: 2017/07/05
-- [Resgistration Page](https://www.facebook.com/events/397721377289594/)
-- Slides
-- [Video](https://www.youtube.com/watch?v=sgmUdKlHAfc)
+* Date: 2017/07/05
+* [Resgistration Page](https://www.facebook.com/events/397721377289594/)
+* Slides
+* [Video](https://www.youtube.com/watch?v=sgmUdKlHAfc)
 
 ```md
 這次應該會講 Applicative，跟惡名昭彰（畫線）的 Monad
@@ -108,10 +108,10 @@ Ray Shih 將與大家分享 Lens
 
 ## PureScript.tw 默默會 #02
 
-- Date: 2017/06/23
-- [Resgistration Page](https://www.facebook.com/events/310778459376180/)
-- Slides
-- Video
+* Date: 2017/06/23
+* [Resgistration Page](https://www.facebook.com/events/310778459376180/)
+* Slides
+* Video
 
 ```
 反正就默默會
@@ -121,11 +121,11 @@ Ray Shih 將與大家分享 Lens
 
 ## PureScript TW Meetup #03: 第三次 PureScript 讀書會：Pux
 
-- Date: 2017/06/16
-- [Resgistration Page](https://www.facebook.com/events/1595521943791406/)
-- Slides
-- [Video](https://www.facebook.com/events/270554746748919/permalink/284458755358518/)
-- [Repo](https://github.com/rayshih/pux-todomvc)
+* Date: 2017/06/16
+* [Resgistration Page](https://www.facebook.com/events/1595521943791406/)
+* Slides
+* [Video](https://www.facebook.com/events/270554746748919/permalink/284458755358518/)
+* [Repo](https://github.com/rayshih/pux-todomvc)
 
 ```md
 這次來講如使用 Pux 實作 TodoMVC
@@ -134,40 +134,37 @@ Ray Shih 將與大家分享 Lens
 
 ## PureScript.tw 默默會 #01
 
-- Date: 2017/05/24
-- [Resgistration Page](https://www.facebook.com/events/242159469597851/)
-- Slides
-- Video
+* Date: 2017/05/24
+* [Resgistration Page](https://www.facebook.com/events/242159469597851/)
+* Slides
+* Video
 
 ## PureScript TW Meetup #02: 第二次 PureScript 讀書會（範圍：Ch6)
 
-- Date: 2017/04/28
-- [Resgistration Page](https://www.facebook.com/events/1909383499340262/)
-- [Slides](https://speakerdeck.com/rayshih/purescript-dot-tw-meetup-2-tutorial-2)
-- [Video](https://www.youtube.com/watch?v=uoWZi5W6PqU)
+* Date: 2017/04/28
+* [Resgistration Page](https://www.facebook.com/events/1909383499340262/)
+* [Slides](https://speakerdeck.com/rayshih/purescript-dot-tw-meetup-2-tutorial-2)
+* [Video](https://www.youtube.com/watch?v=uoWZi5W6PqU)
 
 ```md
 PureScript 是一種 pure functional programming language，卻也是一種專為 web (JS environment）開發的程式語言。
 
-最近剛把這本書讀完，覺得頗受啟發。
-下一步："Learning by teaching"
+最近剛把這本書讀完，覺得頗受啟發。下一步："Learning by teaching"
 除了讓自己能更熟悉 PureScript 以外，還可以順便推廣、尋找同好。
 
-延續第一次讀書會，這次會從 PureScript by Example 第六章開始講
-沒參加過的也可以先看上次讀書會的錄影
+延續第一次讀書會，這次會從 PureScript by Example 第六章開始講沒參加過的也可以先看上次讀書會的錄影
 
 https://www.youtube.com/watch?v=g_-w2B9eBX8
 
-當然不看直接來也沒問題，有問題就盡量問。
-讓越多人能體會 FP 的美好才是我們的目標 XD
+當然不看直接來也沒問題，有問題就盡量問。讓越多人能體會 FP 的美好才是我們的目標 XD
 ```
 
-## PureScript TW Meetup #01: PureScript 第一次讀書會（範圍：～Ch5)
+## PureScript TW Meetup #01: PureScript 第一次讀書會（範圍：～ Ch5)
 
-- Date: 2017/03/24
-- Resgistration Page
-- [Slides](https://www.slideshare.net/mnfshih/purescript-tutorial-1)
-- [Video](https://www.youtube.com/watch?v=g_-w2B9eBX8)
+* Date: 2017/03/24
+* Resgistration Page
+* [Slides](https://www.slideshare.net/mnfshih/purescript-tutorial-1)
+* [Video](https://www.youtube.com/watch?v=g_-w2B9eBX8)
 
 ```md
 Cover Chapter 1 to 5 of book PureScript by Example
