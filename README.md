@@ -2,6 +2,21 @@
 
 Collection of slides and links of meetups
 
+## PureScript TW Meetup #12: Pattern Matching & Algebraic Data Types
+
+* Date: 2017/12/20
+* [Registration Page](https://www.facebook.com/events/199301420639980/)
+* [Slides](https://speakerdeck.com/cybai/purescript-meetup-number-12)
+* [Video](https://youtu.be/_axgs3WtBhA)
+
+```md
+上次介紹完語法後，這次要進入 Algebraic Data Types 的世界了！第五章主要介紹 Pattern Matching 及 ADT，歡迎有興趣的朋友前來參加！
+
+書的連結：https://github.com/paf31/purescript-book/blob/master/text/chapter5.md
+
+抵達華南銀行大樓一樓時，請聯繫 Wu Ching Ting，並用一樓大廳右側的機器取得門禁卡。
+```
+
 ## PureScript TW Meetup #11: Introduction to Idris
 
 * Date: 2017/12/06
